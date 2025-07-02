@@ -1,0 +1,12 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Sass cache
+.sass-cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
